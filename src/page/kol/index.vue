@@ -1,6 +1,6 @@
 <template>
    <div>
-     网红
+     网红 
      <div class='aa'></div>
    </div>
 </template>
